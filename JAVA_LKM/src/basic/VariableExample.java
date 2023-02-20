@@ -1,3 +1,4 @@
+package basic;
 
 public class VariableExample {
 
@@ -50,9 +51,6 @@ public class VariableExample {
 //		int result = myScore = num;
 		int result;
 //		System.out.println(result);
-		
-		
-		
 		
 	}
 }
