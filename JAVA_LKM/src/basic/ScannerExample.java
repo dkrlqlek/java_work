@@ -16,8 +16,8 @@ public class ScannerExample {
 		 - next(): 공백이 없는 문자열을 입력받습니다.
 		 - nextLine(): 공백을 포함한 문자를 입력받습니다.
 		 - next + 기본타입이름(): 해당 타입에 맞는 데이터를 입력받습니다.
-		 ex)
-		 	nextInt(): 정수 데이터를 입력받습니다.
+		 ex)정수 데이터를 입력받습니다
+		 	nextInt(): .
 		 	nextDouble(): 실수 데이터를 입력받습니다.
 		 */
 		
